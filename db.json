@@ -1,0 +1,286 @@
+{
+  "trivia_categories": {
+    "trivia_categories": [
+        {
+            "id": 9,
+            "name": "Diabetes"
+        }
+    ]
+  },
+  "api_count": 
+    {
+      "category_id": 9,
+      "category_question_count": 
+        {
+          "total_easy_question_count": 0,
+          "total_hard_question_count": 24,
+          "total_medium_question_count": 0,
+          "total_question_count": 24
+        }
+    }
+  ,
+  "Diabetes": 
+  {
+  "response_code": 0,
+  "results": [
+    {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which blood sugar reading is good?",
+        "correct_answer": "between 4.5 and 8 mmol/L",
+        "incorrect_answers": [
+          "lower than 5 mmol/L",
+          "between 5 and 10 mmol/L",
+          "between 3.5 and 15 mmol/L"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following products will cause your blood sugar to rise the most?",
+        "correct_answer": "one currant bun",
+        "incorrect_answers": [
+          "crispbread with jam",
+          "soft bread with cheese",
+          "one slice of white bread with cheese"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "You are at home and feel shaky, a little sweaty and hungry. You do not have grape sugar on hand. What would you do?",
+        "correct_answer": "eat a cheese sandwich",
+        "incorrect_answers": [
+          "wait a while",
+          "go for a walk",
+          "eat a chocolate bar",
+          "glass of regular soda"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "You are going to cycle for an hour. What do you expect to happen to your blood sugar?",
+        "correct_answer": "blood sugar will drop",
+        "incorrect_answers": [
+          "blood sugar will rise",
+          "blood sugar stays the same"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which breakfast contains the most carbohydrates (sugars)?",
+        "correct_answer": "1 bowl of yogurt with 3 scoops of granola",
+        "incorrect_answers": [
+          "1 slice of bread with sweet toppings",
+          "1 slice of bread with savory fillings",
+          "1 cracker with sweet fillings"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following products will require you to inject the most insulin?",
+        "correct_answer": "one currant bun",
+        "incorrect_answers": [
+          "crispbread with jam",
+          "soft bread roll with cheese",
+          "I inject the same for everything"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Your blood sugar is 3 mmol/L, what would you do?",
+        "correct_answer": "2 dextrose, and possibly a snack",
+        "incorrect_answers": [
+          "eat a chocolate bar",
+          "glass of regular soda",
+          "injecting extra insulin"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "You will ride your bike for an hour after lunch. What will you do?",
+        "correct_answer": "I inject less insulin",
+        "incorrect_answers": [
+          "I do not use meal insulin",
+          "I inject more insulin at lunch"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "It is warm weather and you are not hungry, and eat only a salad as a meal consisting of lettuce, chicken with oil/vinegar dressing. What do you do with the meal insulin?",
+        "correct_answer": "I do not inject any meal insulin",
+        "incorrect_answers": [
+          "I inject my regular dose of meal insulin",
+          "I do not inject any meal insulin"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "Which of the following statements applies: A) 1 serving of vanilla custard contains as many sugars as 1 serving of yogurt; B) 3 medium potatoes contains as many sugars as 3 slices of bread.",
+        "correct_answer": "A) and B) are not true",
+        "incorrect_answers": [
+          "A) and B) are true",
+          "A) is true",
+          "B) is true"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "The diabetes diet is a healthy diet for most people.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Glycosylated haemoglobin (HbA1c) is a test that measures your average blood glucose level in the past week.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "A pound of chicken has more carbohydrate in it than a pound of potatoes.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Orange juice has more fat in it than low fat milk.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Urine testing and blood testing are both equally as good for testing the level of blood glucose.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Unsweetened fruit juice raises blood glucose levels.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "A can of diet soft drink can be used for treating low blood glucose levels.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Using olive oil in cooking can help prevent raised cholesterol in the blood.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Exercising regularly can help reduce high blood pressure.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "For a person in good control exercising has no effect on blood sugar levels.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Wearing shoes a size bigger than usual helps prevent foot ulcers.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Eating foods lower in fat decreases your risk for heart disease.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Numbness and tingling may be symptoms of nerve disease.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "category": "Diabetes",
+        "type": "boolean",
+        "difficulty": "hard",
+        "question": "Lung problems are usually associated with having diabetes.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      }
+  ]
+}
+}
